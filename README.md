@@ -1,5 +1,4 @@
 # waferbot
-discord bot
 
 simple python discord bot
 
